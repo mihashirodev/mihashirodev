@@ -1,6 +1,15 @@
 <img src="./assets/images/herobanner.gif">
 
-<h1 align="center">Hello, I'm Danil 👋</h1>
+<!-- <h1 align="center">Hello, I'm Danil 👋</h1> -->
+
+<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=27&pause=1000&color=F02EC4&center=true&vCenter=true&width=1000&lines=%E2%9C%AE+%E2%8B%86+%CB%9A%EF%BD%A1%F0%96%A6%B9+%C2%B0%E2%9C%A9+%F0%9F%96%B1%E2%80%A7%E2%82%8A%CB%9A%E2%8C%A8%E2%9C%A9+Welcome!+I'm+Danil+%E2%82%8A%CB%9A%E2%9C%B4%E2%8A%B9+%E2%98%81+%C2%B0+%F0%9F%9C%B2+%E2%9C%AE+%E2%8B%86+%CB%9A%EF%BD%A1%F0%96%A6%B9+%E2%8B%86%EF%BD%A1%C2%B0%E2%9C%A9)](https://github.com/mihashirodev)
+-->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=27&pause=1000&color=F0F0F0&center=true&vCenter=true&width=1000&lines=%E2%9C%AE+%E2%8B%86+%CB%9A%EF%BD%A1%F0%96%A6%B9+%C2%B0%E2%9C%A9+%F0%9F%96%B1%E2%80%A7%E2%82%8A%CB%9A%E2%8C%A8%E2%9C%A9+Welcome!+I'm+Danil+%E2%82%8A%CB%9A%E2%9C%B4%E2%8A%B9+%E2%98%81+%C2%B0+%F0%9F%9C%B2+%E2%9C%AE+%E2%8B%86+%CB%9A%EF%BD%A1%F0%96%A6%B9+%E2%8B%86%EF%BD%A1%C2%B0%E2%9C%A9)](https://github.com/mihashirodev)
+
+
+
 I'm a passionate Software Developer with a strong foundation in software development, proficient in applying core principles of software development and experienced with various technologies and frameworks to tackle complex problems.
 
 <br>
@@ -25,6 +34,8 @@ I'm a passionate Software Developer with a strong foundation in software develop
   </p>
  </div>
 
+<br>
+<br>
 <br>
 <br>
 
