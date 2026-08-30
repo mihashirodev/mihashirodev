@@ -12,7 +12,7 @@ I'm a passionate Software Developer with a strong foundation in software develop
    &nbsp;
     
 
-   &nbsp;&#10022; Currently working as a full-time **software engineer** in Indonesia.
+   &nbsp;&#10022; Currently working as a full-time **software engineer** in UA.
 
    &nbsp;&#10022; Have good understanding of Backend and Frontend Development.
 
