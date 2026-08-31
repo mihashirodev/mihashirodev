@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=27&pause=1000&color=F02EC4&center=true&vCenter=true&width=1000&lines=%E2%9C%AE+%E2%8B%86+%CB%9A%EF%BD%A1%F0%96%A6%B9+%C2%B0%E2%9C%A9+%F0%9F%96%B1%E2%80%A7%E2%82%8A%CB%9A%E2%8C%A8%E2%9C%A9+Welcome!+I'm+Danil+%E2%82%8A%CB%9A%E2%9C%B4%E2%8A%B9+%E2%98%81+%C2%B0+%F0%9F%9C%B2+%E2%9C%AE+%E2%8B%86+%CB%9A%EF%BD%A1%F0%96%A6%B9+%E2%8B%86%EF%BD%A1%C2%B0%E2%9C%A9)](https://github.com/mihashirodev)
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=27&pause=1000&color=F0F0F0&center=true&vCenter=true&width=1000&lines=%E2%9C%AE+%E2%8B%86+%CB%9A%EF%BD%A1%F0%96%A6%B9+%C2%B0%E2%9C%A9+%F0%9F%96%B1%E2%80%A7%E2%82%8A%CB%9A%E2%8C%A8%E2%9C%A9+Welcome!+I'm+Danil+%E2%82%8A%CB%9A%E2%9C%B4%E2%8A%B9+%E2%98%81+%C2%B0+%F0%9F%9C%B2+%E2%9C%AE+%E2%8B%86+%CB%9A%EF%BD%A1%F0%96%A6%B9+%E2%8B%86%EF%BD%A1%C2%B0%E2%9C%A9)](https://github.com/mihashirodev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=35&pause=1000&color=F0F0F0&center=true&vCenter=true&width=1280&lines=%E2%9C%AE+%E2%8B%86+%CB%9A%EF%BD%A1%F0%96%A6%B9+%C2%B0%E2%9C%A9+%F0%9F%96%B1%E2%80%A7%E2%82%8A%CB%9A+Welcome!+I'm+Danil+%CB%9A%E2%82%8A%E2%80%A7%F0%9F%96%B1+%E2%9C%A9%C2%B0+%F0%96%A6%B9%EF%BD%A1%CB%9A+%E2%8B%86+%E2%9C%AE)](https://github.com/mihashirodev)
 
 
 
