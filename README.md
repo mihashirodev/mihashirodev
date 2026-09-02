@@ -10,7 +10,7 @@
 
 
 
-I'm a passionate Software Developer with a strong foundation in software development, proficient in applying core principles of software development and experienced with various technologies and frameworks to tackle complex problems.
+AI & Systems Architect with 5+ years of engineering high-load backend infrastructure and production-grade AI. I help fast-growing companies and founders turn AI potential into reliable, cost-efficient, and revenue-driving systems.
 
 <br>
 
@@ -21,15 +21,17 @@ I'm a passionate Software Developer with a strong foundation in software develop
    &nbsp;
     
 
-   &nbsp;&#10022; Currently working as a full-time **software engineer** in UA.
+   &nbsp;&#10022; Role: **Software Engineer & AI Solution Architect** in UA.
 
-   &nbsp;&#10022; Have good understanding of Backend and Frontend Development.
+   &nbsp;&#10022; Focus: High-load backend infrastructure & scalable microservices
 
-   &nbsp;&#10022; Have understanding in **Ukrainian**, **Russian**, **English**.
+   &nbsp;&#10022; Specialization: Production-grade AI systems, autonomous agents
 
-   &nbsp;&#10022; Loves programming, camping and watch anime.
+   &nbsp;&#10022; Languages: **English**, **Ukrainian**, and **Russian**.
+
+   &nbsp;&#10022; Interests: Coding, travel & anime
    
-   &nbsp;&#10022; Nice to meet you!
+   &nbsp;&#10022; Always open to collaborating — nice to meet you!
    
   </p>
  </div>
